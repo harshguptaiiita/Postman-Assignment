@@ -27,7 +27,7 @@ You can sort the result via
  - AJAX
  
 # Screenshot
-<img src="https://github.com/betterclever/harshguptaiiita/Postman-Assignment/Result_Screenshots/a).Normal_Youtube_Search.png"width="400">
-<img src="https://github.com/betterclever/harshguptaiiita/Postman-Assignment/Result_Screenshots/b).Sort_by_title.png"width="400">
-<img src="https://github.com/betterclever/harshguptaiiita/Postman-Assignment/Result_Screenshots/c).Sort_by_date.png"width="400">
+<img src="https://github.com/harshguptaiiita/Postman-Assignment/Result_Screenshots/a).Normal_Youtube_Search.png"width="400">
+<img src="https://github.com/harshguptaiiita/Postman-Assignment/Result_Screenshots/b).Sort_by_title.png"width="400">
+<img src="https://github.com/harshguptaiiita/Postman-Assignment/Result_Screenshots/c).Sort_by_date.png"width="400">
 
