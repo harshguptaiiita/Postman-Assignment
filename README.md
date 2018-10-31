@@ -25,6 +25,6 @@ You can sort the result via
  - CSS
  - JavaScript
  - AJAX
-## Screenshots
+
 
 
