@@ -7,10 +7,10 @@ You can sort the result via
 - Name(Title Of Video)
 - Date(Published Date)
 
-#System Requirements:-
+# System Requirements:-
 - Browser with javascript enabled
 
-#How to Run:-
+# How to Run:-
 - Step 1:- Open index.html in any Browser
 - Step 2:- Search any video name in text-box
 - Step 3:- To do Sort you can select option from drop down menu
@@ -20,7 +20,7 @@ You can sort the result via
 
  NOTE 1:If API-KEY will Expired so you need to make a new API-KEY and paste into search function  of script.js file.  
  
- #Tools and Technology Used
+ # Tools and Technology Used
  - HTML
  - CSS
  - JavaScript
