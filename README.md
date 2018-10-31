@@ -25,5 +25,9 @@ You can sort the result via
  - CSS
  - JavaScript
  - AJAX
- 
+## Screenshots
+<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_1.jpg" width="400">
+<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_4.jpg" width="400">
+<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_3.jpg" width="400">
+<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_2.jpg" width="400">
 
