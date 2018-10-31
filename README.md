@@ -26,8 +26,5 @@ You can sort the result via
  - JavaScript
  - AJAX
 ## Screenshots
-<img src="https://github.com/harshguptaiiita/ZapTap/Postman-Assignment/Results_Screenshots/a).Normal_Youtube_Search.png" width="400">
-<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_4.jpg" width="400">
-<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_3.jpg" width="400">
-<img src="https://github.com/betterclever/ZapTap/raw/development/Screenshots/screenshot_2.jpg" width="400">
+
 
